@@ -1,4 +1,6 @@
 # CryptoBot-Integration
+This repository is not a training repository and is only needed for Tezer.
+
 You can look at the implementation of CryptoBot integration for payment and rewrite it for yourself. But you won't find any detailed instructions.
 
 To use it, insert your API keys.
